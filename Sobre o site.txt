@@ -1,0 +1,9 @@
+O "Pedal Paradise" surgiu quando estava em busca de uma nova bicicleta. Ao acessar os sites que pesquisei, percebi que faltava algo inovador, algo simples e objetivo. No meu site, priorizei cores mais escuras como fundo para dar um toque de sofisticação. Na tela inicial, inseri uma imagem com uma mensagem motivacional para proporcionar uma experiência positiva aos meus clientes enquanto navegavam pelo site.
+
+No cabeçalho, adicionei um rodapé simples, nele apresentei um botão de produtos e contato, ao ladouma área para busca no site, carrinho de compras e login. Na seção de produtos, disponobilizei varias opções de bicicletas para compra. 
+
+Na parte de login, direcionei os usuários para outra página onde podem inserir seu e-mail e senha. Caso não tenham uma conta, também há a opção de se cadastrar. Se o usuário tentar fazer login sem preencher os campos obrigatórios, um pop-up exibirá uma mensagem solicitando que eles preencham os campos em branco.
+
+Para tornar a navegação mais conveniente, adicionei um botão ou link em todas as páginas que permite aos usuários retornar à página inicial do site.
+
+Dessa forma, o "Pedal Paradise" oferece uma experiência de compra agradável e fácil para os amantes de bicicletas.
